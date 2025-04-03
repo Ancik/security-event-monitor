@@ -1,3 +1,4 @@
+![Banner](images/banner.png)
 # 🐍 Python Bot for Windows Security Event Monitoring
 
 This project is a lightweight Python-based tool to monitor and alert on critical Windows security events using Event Logs (`Security.evtx`).
