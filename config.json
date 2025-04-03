@@ -1,0 +1,17 @@
+{
+  "event_ids_to_monitor": [4625, 4672, 4719],
+  "time_delta_minutes": 60,
+  "user_filter": null,
+  "source_filter": null,
+
+  "send_email": true,
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 587,
+  "smtp_user": "bot@example.com",
+  "smtp_password": "your_password",
+  "recipient_email": "admin@example.com",
+
+  "send_telegram": true,
+  "telegram_bot_token": "123456:ABCDEF",
+  "telegram_chat_id": "987654321"
+}
