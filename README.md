@@ -66,22 +66,5 @@ Created by [Volodymyr Lisovyi](https://www.linkedin.com/in/volodymyr-lisovyi-664
 
 MIT License
 
-# Main and Enhanced Versions of the Event Monitor
-
-**This project contains two versions of the Security Event Monitor:**
-
-1. **Main Version**:
-   - Logs events and sends alerts via **Telegram**.
-   - Uses PowerShell to monitor Windows Event Logs.
-   - Simple configuration through `config.json`.
-
-2. **Enhanced Version** (in the `enhanced/` folder):
-   - Additional features: **Email notifications** via SMTP.
-   - **CSV logging** for easy analysis in Excel or Power BI.
-   - Improved **event filtering** and settings for more detailed configuration.
-
-### 📂 How to Choose the Version:
-- If you need the **basic version** of the security monitor, simply work with the main script and configuration.
-- If you want **advanced features**, such as Email and CSV logging, refer to the folder [**`enhanced/`**](./enhanced/README.md).
 
 
