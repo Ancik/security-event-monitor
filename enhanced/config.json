@@ -1,0 +1,17 @@
+{
+  "AlertEventIds": [4625, 4672, 4719],
+  "TimeWindowMinutes": 60,
+  "TelegramBotToken": "your_token",
+  "TelegramChatId": "your_chat_id",
+  "EnableEmail": true,
+  "EmailFrom": "bot@example.com",
+  "EmailTo": "admin@example.com",
+  "SmtpServer": "smtp.example.com",
+  "SmtpPort": 587,
+  "SmtpUser": "bot@example.com",
+  "SmtpPassword": "your_password",
+  "CsvLogFilePath": "security-events.csv",
+  "TextLogFilePath": "security-events.log",
+  "UserFilter": null,
+  "SourceFilter": null
+}
